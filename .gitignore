@@ -6,6 +6,7 @@ yoochat/node_modules/
 *.log
 
 # Environment files
+admin/.env
 backend/.env
 yoochat/.env
 
